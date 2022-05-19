@@ -19,4 +19,6 @@
   <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div><br>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=cidronioti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 Apaixonado por tecnologia.
