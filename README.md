@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header.gif" alt="Oi, eu sou a cidronio">
+  <img src="https://github.com/cidronioti/cidronioti/blob/main/assets/header.gif" alt="Oi, eu sou a cidronio">
 </p>
 
 ### Olá eu sou o Cidronio de Oliveira 👋
