@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cidronio-oliveira-4a7360a7/)
 
 ![Cidronioti GitHub stats](https://github-readme-stats.vercel.app/api?username=cidronioti&show_icons=true&theme=radical)
-[![Cidronioti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cidronioti)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
 
