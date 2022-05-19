@@ -23,6 +23,13 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=cidronioti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+</p>
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cidronioti.codronioti) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/cidronioti)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cidronioti)
