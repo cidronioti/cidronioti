@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header.gif" alt="Oi, eu sou a cidronio">
+</p>
+
 ### Olá eu sou o Cidronio de Oliveira 👋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CidronioOliveira)
