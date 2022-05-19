@@ -23,4 +23,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=cidronioti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) 
+
 Apaixonado por tecnologia.
